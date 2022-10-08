@@ -1,6 +1,8 @@
 # Python
 ![](/images/giphy.png)
 
+## Day 1:
+
 Basic About Python :
 
 - What is Python.
