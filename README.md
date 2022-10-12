@@ -109,3 +109,30 @@ Working with Operators:
    * String `maketrans()` Method.
    * String `partition()` Method.
    * String `replace()` Method.
+
+## Day 6:
+
+- Working with List:
+   * List Length.
+- Access List Items:
+  * Indexing.
+  * Negative Indexing.
+  * Range of Indexes.
+- Change List Items:
+  * Insert Method.
+- Add List Items:
+  * Append Method.
+  * Insert Method.
+  * Extend Method.
+- Remove List Items:
+  * Remove Method.
+  * Pop Method.
+  * Del Method.
+  * Clear Method.
+- Loop Through a List:
+  * For Loop.
+  * While Loop.
+- List Comprehension.
+- Sort The List.
+- Copy List.
+- Join List.
