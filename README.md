@@ -31,3 +31,51 @@ About Python Variable , Identifiers and Scope :
 - Python Identifiers – Learn to name variables in Python.
    * What is Python Identifier?
    * Naming Rules For Identifiers.
+
+## Day 3:
+
+Working with Operators:
+
+- What Are Operators.
+- Arithmetic Operators.
+  * Addition Operator.
+  * Subtraction Operator.
+  * Multiplication Operator.
+  * Division operator.
+  * Exponentiation Operator.
+  * Floor Division Operator.
+  * Modulus Operator.
+- Python Relational Operators. 
+  * Greater than Operator.
+  * Less than Operator.
+  * Equal to Operator.
+  * Not equal to Operator.
+  * Greater than or equal to Operator.
+  * Less than or equal to Operator.
+- Python Assignment Operators.
+  * Assign Operator.
+  * Add and Assign Opertaor.
+  * Subtract and Assign Operator.
+  * Multiply and Assign Operator.
+  * Divide and Assign Operator.
+  * Modulus and Assign Operator.
+  * Exponentiation and Assign Operator.
+  * Floor divide and Assign Operator.
+- Python Logical Operators.
+  * And (Logical And Operator).
+  * Or (Logical Or Operator).
+  * Not (Logical Not Operator).
+- Python Membership Operators.
+  * in Operator.
+  * Not in Operator.
+- Python Identity Operators.
+  * is Operator.
+  * is not Operator.
+- Python Bitwise Operators.
+  * Bitwise And Operator.
+  * Bitwise Or Operator.
+  * Bitwise Xor Operator.
+  * Bitwise 1’s complement Operator.
+  * Bitwise left-shift Operator.
+  * Bitwise right-shift Operator.
+- Python Operator Precedence
