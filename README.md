@@ -78,4 +78,4 @@ Working with Operators:
   * Bitwise 1’s complement Operator.
   * Bitwise left-shift Operator.
   * Bitwise right-shift Operator.
-- Python Operator Precedence
+
