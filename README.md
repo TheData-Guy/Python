@@ -90,35 +90,34 @@ Working with Operators:
 
 
 ## Day 5:
-- String Methods.
-   * String `Capitalized` Method.
-   * String `casefold()` Method.
-   * String `center()` Method.
-   * String `expandtabs()` Method.
-   * String `find()` Method.
-   * String `isalnum()` Method.
-   * String `isalpha()` Method.
-   * String `isidentifier()` Method.
-   * String `islower()` Method.
-   * String `isspace()` Method.
-   * String `isupper()` Method.
-   * String `join()` Method.
-   * String `maketrans()` Method.
-   * String `partition()` Method.
-   * String `replace()` Method.
-## Day 6:
 
-- Python Booleans.
-- Python Operators:-
-   - Arithmetic operators.
-   - Assignment operators.
-   - Comparison operators.
-   - Logical operators.
-   - Identity operators.
-   - Membership operators.
-   - Bitwise operators.
+- Concatenating & Splitting strings Methods.
+  * Join Method.
+  * Split Method.
+- Finding substrings Methods.
+  * Index Method.
+  * Find Method.
+  * Startswith Method.
+  * Endswith Method.
+- Dealing with string cases Method.
+  * Lower Method.
+  * Upper Method.
+  * Titlecase Method.
+  * Capitalized Method.
+  * islower Method.
+  * isTitle Method.
+  * sUpper Method.
+ - Removing unwanted characters.
+  * lstrip Method.
+  * rstrip Method.
+  * Strip Method. 
+- Checking characters in Strings.
+  * isdigit Method.
+  * isalpha Method. 
+
    
- ## Day 7:
+   
+ ## Day 6:
 
 - Working with List:
    * List Length.
