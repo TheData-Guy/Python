@@ -90,9 +90,9 @@ Working with Operators:
 
 ## Day 5: String Methods.
 
-- Concatenating & Splitting strings Methods :
-  - Join Method.
-  - Split Method.
+- Concatenating & Splitting strings Methods.
+ - Join Method.
+ - Split Method.
 - Finding substrings Methods :
   - Index Method.
   - Find Method .
