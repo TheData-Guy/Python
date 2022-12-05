@@ -1,7 +1,7 @@
 # Python
 ![](/images/giphy.png)
 
-## Day 1:
+## Day 1
 
 Basic About Python :
 
@@ -12,7 +12,7 @@ Basic About Python :
 - Why Learn  Python.
 - Advantages and Disadvantages Of Python.
 
-## Day 2:
+## Day 2
 
 About Python Variable , Identifiers and Scope :
 
@@ -32,7 +32,7 @@ About Python Variable , Identifiers and Scope :
    * What is Python Identifier?
    * Naming Rules For Identifiers.
 
-## Day 3:
+## Day 3
 
 Working with Operators:
 
@@ -79,7 +79,7 @@ Working with Operators:
   * Bitwise left-shift Operator.
   * Bitwise right-shift Operator.
 
-## Day 4:
+## Day 4
 
 - String Concatenation.
 - String Format.
@@ -114,4 +114,28 @@ Working with Operators:
   - isdigit Method.
   - isalpha Metho 
 
-  
+  ## Day 6 
+- Working with List:
+   * List Length.
+- Access List Items:
+  * Indexing.
+  * Negative Indexing.
+  * Range of Indexes.
+- Change List Items:
+  * Insert Method.
+- Add List Items:
+  * Append Method.
+  * Insert Method.
+  * Extend Method.
+- Remove List Items:
+  * Remove Method.
+  * Pop Method.
+  * Del Method.
+  * Clear Method.
+- Loop Through a List:
+  * For Loop.
+  * While Loop.
+- List Comprehension.
+- Sort The List.
+- Copy List.
+- Join List.
