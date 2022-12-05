@@ -98,7 +98,7 @@ Working with Operators:
   - Find Method .
   - Startswith Method.
   - Endswith Methos.
-- Dealing with string cases :
+- Dealing with string cases Methods :
   - Lower Method.
   - Upper Method.
   - Titlecase Method.
@@ -106,5 +106,12 @@ Working with Operators:
   - islower Method.
   - isTitle Method.
   - isUpper Method.
+- Removing unwanted characters Methods :
+  - lstrip Method.
+  - rstrip Method.
+  - Strip Method.
+- Checking characters in Strings Methods :
+  - isdigit Method.
+  - isalpha Metho 
 
   
