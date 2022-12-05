@@ -88,10 +88,23 @@ Working with Operators:
 - Updating  a String.
 
 
-## Day 5:
-- String Methods.
+## Day 5: String Methods.
 
-- Concatenating & Splitting strings Methods
+- Concatenating & Splitting strings Methods :
   - Join Method.
   - Split Method.
+- Finding substrings Methods :
+  - Index Method.
+  - Find Method .
+  - Startswith Method.
+  - Endswith Methos.
+- Dealing with string cases :
+  - Lower Method.
+  - Upper Method.
+  - Titlecase Method.
+  - Capitalized Method.
+  - islower Method.
+  - isTitle Method.
+  - isUpper Method.
+
   
