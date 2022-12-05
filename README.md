@@ -90,18 +90,8 @@ Working with Operators:
 
 ## Day 5:
 - String Methods.
-   * String `Capitalized` Method.
-   * String `casefold()` Method.
-   * String `center()` Method.
-   * String `expandtabs()` Method.
-   * String `find()` Method.
-   * String `isalnum()` Method.
-   * String `isalpha()` Method.
-   * String `isidentifier()` Method.
-   * String `islower()` Method.
-   * String `isspace()` Method.
-   * String `isupper()` Method.
-   * String `join()` Method.
-   * String `maketrans()` Method.
-   * String `partition()` Method.
-   * String `replace()` Method.
+
+- Concatenating & Splitting strings Methods
+  - Join Method.
+  - Split Method.
+  
