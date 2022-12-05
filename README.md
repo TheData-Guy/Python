@@ -79,7 +79,7 @@ Working with Operators:
   * Bitwise left-shift Operator.
   * Bitwise right-shift Operator.
 
-## Day 4
+## Day 4:
 
 - String Concatenation.
 - String Format.
@@ -88,33 +88,38 @@ Working with Operators:
 - Updating  a String.
 
 
-## Day 5: String Methods.
 
-- Concatenating & Splitting strings Methods.
- - Join Method.
- - Split Method.
-- Finding substrings Methods :
-  - Index Method.
-  - Find Method .
-  - Startswith Method.
-  - Endswith Methos.
-- Dealing with string cases Methods :
-  - Lower Method.
-  - Upper Method.
-  - Titlecase Method.
-  - Capitalized Method.
-  - islower Method.
-  - isTitle Method.
-  - isUpper Method.
-- Removing unwanted characters Methods :
-  - lstrip Method.
-  - rstrip Method.
-  - Strip Method.
-- Checking characters in Strings Methods :
-  - isdigit Method.
-  - isalpha Metho 
+## Day 5:
+- String Methods.
+   * String `Capitalized` Method.
+   * String `casefold()` Method.
+   * String `center()` Method.
+   * String `expandtabs()` Method.
+   * String `find()` Method.
+   * String `isalnum()` Method.
+   * String `isalpha()` Method.
+   * String `isidentifier()` Method.
+   * String `islower()` Method.
+   * String `isspace()` Method.
+   * String `isupper()` Method.
+   * String `join()` Method.
+   * String `maketrans()` Method.
+   * String `partition()` Method.
+   * String `replace()` Method.
+## Day 6:
 
-  ## Day 6 
+- Python Booleans.
+- Python Operators:-
+   - Arithmetic operators.
+   - Assignment operators.
+   - Comparison operators.
+   - Logical operators.
+   - Identity operators.
+   - Membership operators.
+   - Bitwise operators.
+   
+ ## Day 7:
+
 - Working with List:
    * List Length.
 - Access List Items:
