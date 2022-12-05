@@ -153,7 +153,23 @@ Working with Operators:
 - Dictionary
   * Accesing Items.
 - Dictionary Methods.
-  * 
-  
+  * Clear Method.
+  * Copy Method.
+  * fromkeys Method.
+  * Get Method.
+  * items Method.
+  * Keys Method.
+  * Pop Method.
+  * Popitem Method.
+  * Update Item.
+  * Values Method.
+- Loop Through a Dictionary.
+- Set 
+  * Acees Set Items.
+  * Add Items in the Set.
+  * Remove Set Items.
+- Set Method
+  * Add Method.
+  * Clear Method
   
   
