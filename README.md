@@ -171,5 +171,15 @@ Working with Operators:
 - Set Method
   * Add Method.
   * Clear Method
+  * Difference Method.
+  * Difference_Upadte Method.
+  * intersection() Method.
+  * intersection_update() Method.
+  * isdisjoint() Method.
+  * issubset() Method.
+  * issuperset Method.
+  * symmetric_difference() Method.
+  * symmetric_difference_update() Method.
+  * union() Method.
   
   
