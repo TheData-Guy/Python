@@ -79,3 +79,29 @@ Working with Operators:
   * Bitwise left-shift Operator.
   * Bitwise right-shift Operator.
 
+## Day 4:
+
+- String Concatenation.
+- String Format.
+- Escape Characters.
+- Deletion from a String.
+- Updating  a String.
+
+
+## Day 5:
+- String Methods.
+   * String `Capitalized` Method.
+   * String `casefold()` Method.
+   * String `center()` Method.
+   * String `expandtabs()` Method.
+   * String `find()` Method.
+   * String `isalnum()` Method.
+   * String `isalpha()` Method.
+   * String `isidentifier()` Method.
+   * String `islower()` Method.
+   * String `isspace()` Method.
+   * String `isupper()` Method.
+   * String `join()` Method.
+   * String `maketrans()` Method.
+   * String `partition()` Method.
+   * String `replace()` Method.
