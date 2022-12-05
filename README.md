@@ -143,3 +143,17 @@ Working with Operators:
 - Sort The List.
 - Copy List.
 - Join List.
+
+## Day 7 
+
+- Tuple.
+  * Defining a Tuple.
+  * Count Method in Tuple.
+  * Index Method in Tuple.
+- Dictionary
+  * Accesing Items.
+- Dictionary Methods.
+  * 
+  
+  
+  
